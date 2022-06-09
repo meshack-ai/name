@@ -1,6 +1,7 @@
 #!/bin/bash
- echo -e ""
- echo -e ""
+ echo -e "       =========================  "
+ echo -e "=======Author:Meshack Kipngetich=============="
+ echo -e "       =========================       "
  echo -e "  ____    ____    ___   ____                 "
  echo -e " |    \  /    |  |   | /   |              "
  echo -e " |     \/     |  |   |/   /               "
